@@ -1,4 +1,4 @@
-# My Digital Portfolio
+# My Online Resume
 
 This project involves creating an online resume using pure HTML. The resume includes various sections such as work experience, skills, awards, and education.
 
@@ -16,17 +16,3 @@ This project involves creating an online resume using pure HTML. The resume incl
 ## Technologies Used
 
 * HTML
-
-# My Personal Website
-
-The goal of this project is to create a personal website that showcases my skills, experiences, and interests. The website is visually appealing and easy to navigate, while also providing relevant information about me and my background. The site is built entirely with HTML and CSS, with very little JavaScript code included.
-
-## Getting Started
-
-* Website URL: http://127.0.0.1:3000/
-
-## Technologies Used
-
-* HTML
-* CSS
-* Javascript
