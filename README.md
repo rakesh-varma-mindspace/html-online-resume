@@ -4,7 +4,7 @@ This project involves creating an online resume using pure HTML. The resume incl
 
 ## Getting Started
 
-* Website url: https://rakesh-varma-mindspace.github.io/html-online-resume/
+* Website url: https://html-online-resume.onrender.com
 
 ## Features
 
